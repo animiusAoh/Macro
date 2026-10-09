@@ -10,7 +10,7 @@ local LocalPlayer = Players.LocalPlayer
 -- CONFIGURATION
 -- =====================================================
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1557866715805913209/Id2nPWORSOmXUO3xgGvCoe-ikwmBf1Sq2WcL51p6mP6XgKPZ1GNbIwmbFNy836xc-USk"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1557906210383077377/rxhCYqb4QMSMPPqDHsS90wInx4yUrzBcUqi_Fp21eolNh2YQLDbwlIFPzAMOnBWOtNnu"
 local EMBED_COLOR = 606060 -- Azul profesional
 
 -- =====================================================
